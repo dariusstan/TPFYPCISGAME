@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 63
+  controlID: 50
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 133
+  controlID: 120
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-  progressMessageClearTime: -1
+  progressMessageClearTime: 100.3347385
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
@@ -690,6 +690,120 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+    - commitID: 3005e95ed6815408fe468f37d72486f460fa1934
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-02T17:29:36.000+08:00
+      commitTimeString: 2022-07-02T17:29:36.000+08:00
+      changes:
+      - path: Assets\Testing_File
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File
+        projectPath: Assets\Testing_File
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\Testing_File.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File.meta
+        projectPath: Assets\Testing_File.meta
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+    - commitID: de4ec2278b8b5f86d39b29f6cbfe6773591eb8ce
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: Delete testing_norman
+      description: 
+      timeString: 2022-07-02T14:31:02.000+08:00
+      commitTimeString: 2022-07-02T14:31:02.000+08:00
+      changes:
+      - path: Assets\testing_norman
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+        projectPath: Assets\testing_norman
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+    - commitID: b5988be73a3f6665f5bed1a3278da2cd25228727
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: 57205475+Norman9137chew@users.noreply.github.com
+      commitEmail: noreply@github.com
+      commitName: GitHub
+      summary: Create testing_norman
+      description: 
+      timeString: 2022-07-02T13:53:55.000+08:00
+      commitTimeString: 2022-07-02T13:53:55.000+08:00
+      changes:
+      - path: Assets\testing_norman
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+        projectPath: Assets\testing_norman
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: ac18daac0dbf0d775fd277a23aa0e70675691525
+      mergeA: 0cf62aef52037d7f5cfbc5141401c25425de9622
+      mergeB: 74ea077ec88cf5dfb05ab498a8b448a57985b01a
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: Merge branch 'main' of https://github.com/dariusstan/TPFYPCISGAME
+      description: 
+      timeString: 2022-07-02T13:52:45.000+08:00
+      commitTimeString: 2022-07-02T13:52:45.000+08:00
+      changes: []
+    - commitID: 0cf62aef52037d7f5cfbc5141401c25425de9622
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: this is a test
+      description: 
+      timeString: 2022-07-02T13:52:39.000+08:00
+      commitTimeString: 2022-07-02T13:52:39.000+08:00
+      changes:
+      - path: Assets\THISISATEST.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
+        projectPath: Assets\THISISATEST.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\THISISATEST.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
+        projectPath: Assets\THISISATEST.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: 74ea077ec88cf5dfb05ab498a8b448a57985b01a
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-02T13:43:51.000+08:00
+      commitTimeString: 2022-07-02T13:43:51.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: 8404a5f378e8665b116d63859a918cf601e1f90f
       mergeA: 
       mergeB: 
@@ -1700,14 +1814,128 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2022-07-02T13:42:33.540+08:00
+      updatedTimeString: 2022-07-02T17:29:54.045+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2022-07-02T17:28:51.655+08:00
       cacheType: 5
     historyControl:
-      scroll: {x: 0, y: 0}
+      scroll: {x: 0, y: 40}
       entries:
+      - commitID: 3005e95ed6815408fe468f37d72486f460fa1934
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-02T17:29:36.000+08:00
+        commitTimeString: 2022-07-02T17:29:36.000+08:00
+        changes:
+        - path: Assets\Testing_File
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File
+          projectPath: Assets\Testing_File
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\Testing_File.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File.meta
+          projectPath: Assets\Testing_File.meta
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+      - commitID: de4ec2278b8b5f86d39b29f6cbfe6773591eb8ce
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: Delete testing_norman
+        description: 
+        timeString: 2022-07-02T14:31:02.000+08:00
+        commitTimeString: 2022-07-02T14:31:02.000+08:00
+        changes:
+        - path: Assets\testing_norman
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+          projectPath: Assets\testing_norman
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+      - commitID: b5988be73a3f6665f5bed1a3278da2cd25228727
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: 57205475+Norman9137chew@users.noreply.github.com
+        commitEmail: noreply@github.com
+        commitName: GitHub
+        summary: Create testing_norman
+        description: 
+        timeString: 2022-07-02T13:53:55.000+08:00
+        commitTimeString: 2022-07-02T13:53:55.000+08:00
+        changes:
+        - path: Assets\testing_norman
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+          projectPath: Assets\testing_norman
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: ac18daac0dbf0d775fd277a23aa0e70675691525
+        mergeA: 0cf62aef52037d7f5cfbc5141401c25425de9622
+        mergeB: 74ea077ec88cf5dfb05ab498a8b448a57985b01a
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: Merge branch 'main' of https://github.com/dariusstan/TPFYPCISGAME
+        description: 
+        timeString: 2022-07-02T13:52:45.000+08:00
+        commitTimeString: 2022-07-02T13:52:45.000+08:00
+        changes: []
+      - commitID: 0cf62aef52037d7f5cfbc5141401c25425de9622
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: this is a test
+        description: 
+        timeString: 2022-07-02T13:52:39.000+08:00
+        commitTimeString: 2022-07-02T13:52:39.000+08:00
+        changes:
+        - path: Assets\THISISATEST.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
+          projectPath: Assets\THISISATEST.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\THISISATEST.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
+          projectPath: Assets\THISISATEST.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: 74ea077ec88cf5dfb05ab498a8b448a57985b01a
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-02T13:43:51.000+08:00
+        commitTimeString: 2022-07-02T13:43:51.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: 8404a5f378e8665b116d63859a918cf601e1f90f
         mergeA: 
         mergeB: 
@@ -2943,7 +3171,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/dariusstan/TPFYPCISGAME.git
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 1
+  hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: main
@@ -2954,13 +3182,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-07-02T13:42:07.982+08:00
+    updatedTimeString: 2022-07-02T17:28:51.652+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2022-07-02T17:28:51.655+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2022-07-02T17:28:56.789+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -2979,7 +3207,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: 
   repositoryProgressValue: 0
-  repositoryProgressMessage: 
+  repositoryProgressMessage: Reading locks...
   appManagerProgressValue: 0
   appManagerProgressMessage: 
   connections: []
@@ -3066,9 +3294,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 26600000
-    m_LastClickedID: 24614
-    m_ExpandedIDs: 000000002660000000ca9a3bffffff7f
+    m_SelectedIDs: 2c600000
+    m_LastClickedID: 24620
+    m_ExpandedIDs: 000000002c60000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3096,7 +3324,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000026600000
+    m_ExpandedIDs: 000000002c600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3226,7 +3454,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 26fbffff
+      m_ExpandedIDs: 1cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
