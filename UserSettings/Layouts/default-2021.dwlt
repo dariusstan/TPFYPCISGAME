@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-  m_Title: GitHub
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -690,6 +690,630 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+    - commitID: 6a000e0f4fc7ee2d3cf2fe5056e27511800e9219
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T21:54:01.000+08:00
+      commitTimeString: 2022-07-04T21:54:01.000+08:00
+      changes:
+      - path: Assets\THISISATEST.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
+        projectPath: Assets\THISISATEST.prefab
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack.meta
+        originalPath: Assets\pls.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_00.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_01.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_02.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_03.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_04.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_05.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_06.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_07.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_08.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_09.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_10.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_11.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_12.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_13.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_14.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_15.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\Example.unity
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\Example.unity.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity.meta
+        originalPath: Assets\THISISATEST.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\LineUp.unity
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\LineUp.unity.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity.meta
+        originalPath: Assets\test.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Textures.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Textures\Forest_Background.jpg
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Textures\PackForest01.png
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Textures\PackForest01.png.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\idk.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\idk.prefab
+        projectPath: Assets\idk.prefab
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\idk.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\idk.prefab.meta
+        projectPath: Assets\idk.prefab.meta
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\pls.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab
+        projectPath: Assets\pls.prefab
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\test.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\test.prefab
+        projectPath: Assets\test.prefab
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\z.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\z.prefab
+        projectPath: Assets\z.prefab
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\z.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\z.prefab.meta
+        projectPath: Assets\z.prefab.meta
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: UserSettings\EditorUserSettings.asset
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+        projectPath: UserSettings\EditorUserSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 67786d3a8219d5543c7dce7f8467ff114a025522
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T10:39:14.000+08:00
+      commitTimeString: 2022-07-04T10:39:14.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: aac43cc0f7bc5b5985953ece6a45b0f2f8f359b6
       mergeA: 7becf929992b1f6cb173ccc309d7a91704937401
       mergeB: 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
@@ -1934,14 +2558,638 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2022-07-04T10:38:28.965+08:00
+      updatedTimeString: 2022-07-04T21:54:33.907+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-04T10:32:15.567+08:00
+      updatedTimeString: 2022-07-04T21:49:43.901+08:00
       cacheType: 5
     historyControl:
-      scroll: {x: 0, y: 80}
+      scroll: {x: 0, y: 40}
       entries:
+      - commitID: 6a000e0f4fc7ee2d3cf2fe5056e27511800e9219
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T21:54:01.000+08:00
+        commitTimeString: 2022-07-04T21:54:01.000+08:00
+        changes:
+        - path: Assets\THISISATEST.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
+          projectPath: Assets\THISISATEST.prefab
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack.meta
+          originalPath: Assets\pls.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_00.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_01.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_02.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_03.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_04.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_05.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_06.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_07.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_08.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_09.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_10.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_11.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_12.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_13.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_14.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_15.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\Example.unity
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\Example.unity.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity.meta
+          originalPath: Assets\THISISATEST.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\LineUp.unity
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\LineUp.unity.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity.meta
+          originalPath: Assets\test.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Textures.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Textures\Forest_Background.jpg
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Textures\PackForest01.png
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Textures\PackForest01.png.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\idk.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\idk.prefab
+          projectPath: Assets\idk.prefab
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\idk.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\idk.prefab.meta
+          projectPath: Assets\idk.prefab.meta
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\pls.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab
+          projectPath: Assets\pls.prefab
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\test.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\test.prefab
+          projectPath: Assets\test.prefab
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\z.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\z.prefab
+          projectPath: Assets\z.prefab
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\z.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\z.prefab.meta
+          projectPath: Assets\z.prefab.meta
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: UserSettings\EditorUserSettings.asset
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+          projectPath: UserSettings\EditorUserSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 67786d3a8219d5543c7dce7f8467ff114a025522
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T10:39:14.000+08:00
+        commitTimeString: 2022-07-04T10:39:14.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: aac43cc0f7bc5b5985953ece6a45b0f2f8f359b6
         mergeA: 7becf929992b1f6cb173ccc309d7a91704937401
         mergeB: 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
@@ -3422,13 +4670,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-07-04T10:32:15.658+08:00
+    updatedTimeString: 2022-07-04T21:49:36.072+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-07-04T10:32:15.567+08:00
+    updatedTimeString: 2022-07-04T21:49:43.901+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-07-04T10:32:31.279+08:00
+    updatedTimeString: 2022-07-04T21:49:43.879+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -3521,22 +4769,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Tasty_Characters - Forest Pack/Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Tasty_Characters - Forest Pack/Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 20600000
-    m_LastClickedID: 24608
-    m_ExpandedIDs: 000000002060000000ca9a3bffffff7f
+    m_SelectedIDs: a8670000
+    m_LastClickedID: 26536
+    m_ExpandedIDs: 0000000020600000846700008a670000a667000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3692,9 +4940,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a2600000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffff
+      m_ExpandedIDs: c8ebffff18ecffffb0efffff2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3965,9 +5213,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 2.7249963, y: -1.383462, z: 0.04504037}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 2.57022, y: -1.305821, z: 0.04245063}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -4018,9 +5266,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 5.4959636
     speed: 2
-    m_Value: 10
+    m_Value: 5.7549357
   m_Ortho:
     m_Target: 1
     speed: 2
