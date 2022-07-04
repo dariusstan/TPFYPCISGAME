@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,11 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 94
-=======
-  controlID: 103
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
+  controlID: 15
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,11 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-<<<<<<< HEAD
-  controlID: 61
-=======
-  controlID: 67
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
+  controlID: 16
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -258,11 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 62
-=======
-  controlID: 68
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -702,6 +690,73 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+    - commitID: 4bcd6143cb8a4df332ff87748311d84985a90328
+      mergeA: c5df5599e5ed2d99f49bd70b213b15f3e4aac1ef
+      mergeB: dba2967b0255ac09503b4d1fea998c49da532199
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: 1
+      description: 
+      timeString: 2022-07-04T22:38:17.000+08:00
+      commitTimeString: 2022-07-04T22:38:17.000+08:00
+      changes: []
+    - commitID: c5df5599e5ed2d99f49bd70b213b15f3e4aac1ef
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: .
+      description: 
+      timeString: 2022-07-04T22:38:07.000+08:00
+      commitTimeString: 2022-07-04T22:38:07.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: dba2967b0255ac09503b4d1fea998c49da532199
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T22:34:06.000+08:00
+      commitTimeString: 2022-07-04T22:34:06.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 0d9204beb9c302a6f18f1151f2e0caa4fb017515
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T22:28:37.000+08:00
+      commitTimeString: 2022-07-04T22:28:37.000+08:00
+      changes:
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\Example.unity
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: d4d88cf07f927769ab6d373312cabedffdbcc41b
       mergeA: 
       mergeB: 
@@ -2839,21 +2894,81 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-<<<<<<< HEAD
-      updatedTimeString: 2022-07-04T22:26:53.376+08:00
+      updatedTimeString: 2022-07-04T22:38:29.346+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-=======
-      updatedTimeString: 2022-07-04T22:29:22.632+08:00
-      cacheType: 3
-    lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-04T22:18:25.322+08:00
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
+      updatedTimeString: 2022-07-04T22:37:50.461+08:00
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+      - commitID: 4bcd6143cb8a4df332ff87748311d84985a90328
+        mergeA: c5df5599e5ed2d99f49bd70b213b15f3e4aac1ef
+        mergeB: dba2967b0255ac09503b4d1fea998c49da532199
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: 1
+        description: 
+        timeString: 2022-07-04T22:38:17.000+08:00
+        commitTimeString: 2022-07-04T22:38:17.000+08:00
+        changes: []
+      - commitID: c5df5599e5ed2d99f49bd70b213b15f3e4aac1ef
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: .
+        description: 
+        timeString: 2022-07-04T22:38:07.000+08:00
+        commitTimeString: 2022-07-04T22:38:07.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: dba2967b0255ac09503b4d1fea998c49da532199
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T22:34:06.000+08:00
+        commitTimeString: 2022-07-04T22:34:06.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 0d9204beb9c302a6f18f1151f2e0caa4fb017515
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T22:28:37.000+08:00
+        commitTimeString: 2022-07-04T22:28:37.000+08:00
+        changes:
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\Example.unity
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: d4d88cf07f927769ab6d373312cabedffdbcc41b
         mergeA: 
         mergeB: 
@@ -4990,7 +5105,7 @@ MonoBehaviour:
           indexStatus: 4
           workTreeStatus: 0
       statusAhead: 0
-      selectedIndex: 0
+      selectedIndex: 4
     selectedEntry:
       commitID: d4d88cf07f927769ab6d373312cabedffdbcc41b
       mergeA: 
@@ -5385,13 +5500,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-07-04T22:09:46.347+08:00
+    updatedTimeString: 2022-07-04T22:59:56.011+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2022-07-04T22:37:50.461+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 0001-01-01T00:00:00.000+00:00
+    updatedTimeString: 2022-07-04T22:38:28.861+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -5497,15 +5612,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
     m_SelectedIDs: 0c600000
     m_LastClickedID: 24588
-    m_ExpandedIDs: 000000000c6000001660000000ca9a3b
-=======
-    m_SelectedIDs: 24600000
-    m_LastClickedID: 24612
-    m_ExpandedIDs: 00000000246000002a6000002e6000008260000000ca9a3bffffff7f
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
+    m_ExpandedIDs: 000000000c60000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -5533,11 +5642,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
     m_ExpandedIDs: 000000000c600000
-=======
-    m_ExpandedIDs: 0000000024600000
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -5665,15 +5770,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-      m_SelectedIDs: da9efdff
-      m_LastClickedID: -155942
-      m_ExpandedIDs: f69efdff2efbffff
-=======
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 5cf3ffff62f5ffff2efbffff
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
+      m_ExpandedIDs: 2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -5944,15 +6043,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
-=======
-    m_Target: {x: 1.144707, y: -1.310643, z: -0.057015866}
-    speed: 2
-    m_Value: {x: 1.2989483, y: -1.4092302, z: -0.054302078}
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -6003,15 +6096,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< HEAD
     m_Target: 10
     speed: 2
     m_Value: 10
-=======
-    m_Target: 6.302049
-    speed: 2
-    m_Value: 6.030669
->>>>>>> dba2967b0255ac09503b4d1fea998c49da532199
   m_Ortho:
     m_Target: 1
     speed: 2
