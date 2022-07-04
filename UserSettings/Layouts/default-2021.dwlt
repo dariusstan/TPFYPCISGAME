@@ -19,11 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-<<<<<<< HEAD
-  m_Title: Project
-=======
-  m_Title: Scene
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -52,15 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 70
-=======
-<<<<<<< HEAD
-  controlID: 120
-=======
-  controlID: 75
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
->>>>>>> 276c26cb80578c46e7bfacc986ddd348cf98cbff
+  controlID: 72
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -87,13 +75,8 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 13}
   - {fileID: 12}
-<<<<<<< HEAD
-  m_Selected: 2
-  m_LastSelected: 1
-=======
   m_Selected: 0
   m_LastSelected: 2
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,15 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-<<<<<<< HEAD
-  controlID: 101
-=======
-<<<<<<< HEAD
-  controlID: 121
-=======
-  controlID: 103
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
->>>>>>> 276c26cb80578c46e7bfacc986ddd348cf98cbff
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,15 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 102
-=======
-<<<<<<< HEAD
-  controlID: 122
-=======
-  controlID: 104
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
->>>>>>> 276c26cb80578c46e7bfacc986ddd348cf98cbff
+  controlID: 101
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -346,7 +313,7 @@ MonoBehaviour:
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 1
+  appManagerProgressHasUpdate: 0
   changeTab: 2
   activeTab: 2
   initProjectView:
@@ -711,11 +678,7 @@ MonoBehaviour:
       workTreeStatus: 3
     changedFilesText: 1 changed file
     lastCurrentBranchChangedEvent:
-<<<<<<< HEAD
-      updatedTimeString: 2022-07-04T21:57:21.068+08:00
-=======
       updatedTimeString: 2022-07-04T21:56:16.160+08:00
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
       cacheType: 1
     lastStatusEntriesChangedEvent:
       updatedTimeString: 0001-01-01T00:00:00.000+00:00
@@ -725,10 +688,138 @@ MonoBehaviour:
       cacheType: 7
   historyView:
     currentLogHasUpdate: 1
-    currentTrackingStatusHasUpdate: 1
+    currentTrackingStatusHasUpdate: 0
     logEntries:
-<<<<<<< HEAD
-=======
+    - commitID: 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T22:04:03.000+08:00
+      commitTimeString: 2022-07-04T22:04:03.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 8a7b4877999f1ed4e41f5b18762f2eb42b1ac285
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T22:02:47.000+08:00
+      commitTimeString: 2022-07-04T22:02:47.000+08:00
+      changes:
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\Example.unity
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 29e05d9d411d20633c05d913af85b4ad4452f4af
+      mergeA: c8de87e3ddbf8f831b2e8516cfb5c8a977fb24fa
+      mergeB: 6f3f4165c0ec95d9935992cd366c575084854100
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T21:59:34.000+08:00
+      commitTimeString: 2022-07-04T21:59:34.000+08:00
+      changes: []
+    - commitID: c8de87e3ddbf8f831b2e8516cfb5c8a977fb24fa
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T21:58:34.000+08:00
+      commitTimeString: 2022-07-04T21:58:34.000+08:00
+      changes:
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\Example.unity
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+          - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+        projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: ProjectSettings\SceneTemplateSettings.json
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\ProjectSettings\SceneTemplateSettings.json
+        projectPath: ProjectSettings\SceneTemplateSettings.json
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 6f3f4165c0ec95d9935992cd366c575084854100
+      mergeA: 506a4e0194f637f4b2341cf1e5cad924dde4b7eb
+      mergeB: 6a000e0f4fc7ee2d3cf2fe5056e27511800e9219
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: .
+      description: 
+      timeString: 2022-07-04T21:57:39.000+08:00
+      commitTimeString: 2022-07-04T21:57:39.000+08:00
+      changes: []
+    - commitID: 506a4e0194f637f4b2341cf1e5cad924dde4b7eb
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: .
+      description: 
+      timeString: 2022-07-04T21:55:35.000+08:00
+      commitTimeString: 2022-07-04T21:55:35.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: 6a000e0f4fc7ee2d3cf2fe5056e27511800e9219
       mergeA: 
       mergeB: 
@@ -1719,7 +1810,6 @@ MonoBehaviour:
         originalPath: 
         indexStatus: 3
         workTreeStatus: 0
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
     - commitID: 2557794115b2f9356e9d32f349916ab1903c17ab
       mergeA: 
       mergeB: 
@@ -2598,28 +2688,144 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-<<<<<<< HEAD
-      updatedTimeString: 2022-07-04T22:06:25.268+08:00
-=======
-<<<<<<< HEAD
-      updatedTimeString: 2022-07-02T13:06:34.241+08:00
+      updatedTimeString: 2022-07-04T22:15:34.937+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2022-07-04T22:14:02.520+08:00
       cacheType: 5
     historyControl:
-      scroll: {x: 0, y: 40}
+      scroll: {x: 0, y: 240}
       entries:
-=======
-      updatedTimeString: 2022-07-04T22:02:57.875+08:00
->>>>>>> 276c26cb80578c46e7bfacc986ddd348cf98cbff
-      cacheType: 3
-    lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-04T22:06:25.263+08:00
-      cacheType: 5
-    historyControl:
-      scroll: {x: 0, y: 0}
-      entries:
+      - commitID: 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T22:04:03.000+08:00
+        commitTimeString: 2022-07-04T22:04:03.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 8a7b4877999f1ed4e41f5b18762f2eb42b1ac285
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T22:02:47.000+08:00
+        commitTimeString: 2022-07-04T22:02:47.000+08:00
+        changes:
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\Example.unity
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 29e05d9d411d20633c05d913af85b4ad4452f4af
+        mergeA: c8de87e3ddbf8f831b2e8516cfb5c8a977fb24fa
+        mergeB: 6f3f4165c0ec95d9935992cd366c575084854100
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T21:59:34.000+08:00
+        commitTimeString: 2022-07-04T21:59:34.000+08:00
+        changes: []
+      - commitID: c8de87e3ddbf8f831b2e8516cfb5c8a977fb24fa
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T21:58:34.000+08:00
+        commitTimeString: 2022-07-04T21:58:34.000+08:00
+        changes:
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\Example.unity
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Example.unity
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Tasty_Characters
+            - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+          projectPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: ProjectSettings\SceneTemplateSettings.json
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\ProjectSettings\SceneTemplateSettings.json
+          projectPath: ProjectSettings\SceneTemplateSettings.json
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 6f3f4165c0ec95d9935992cd366c575084854100
+        mergeA: 506a4e0194f637f4b2341cf1e5cad924dde4b7eb
+        mergeB: 6a000e0f4fc7ee2d3cf2fe5056e27511800e9219
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: .
+        description: 
+        timeString: 2022-07-04T21:57:39.000+08:00
+        commitTimeString: 2022-07-04T21:57:39.000+08:00
+        changes: []
+      - commitID: 506a4e0194f637f4b2341cf1e5cad924dde4b7eb
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: .
+        description: 
+        timeString: 2022-07-04T21:55:35.000+08:00
+        commitTimeString: 2022-07-04T21:55:35.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: 6a000e0f4fc7ee2d3cf2fe5056e27511800e9219
         mergeA: 
         mergeB: 
@@ -3610,7 +3816,6 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 3
           workTreeStatus: 0
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
       - commitID: 2557794115b2f9356e9d32f349916ab1903c17ab
         mergeA: 
         mergeB: 
@@ -4725,11 +4930,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-<<<<<<< HEAD
-    updatedTimeString: 2022-07-04T21:57:21.068+08:00
-=======
     updatedTimeString: 2022-07-04T21:56:16.160+08:00
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
     cacheType: 1
   lastTrackingStatusChangedEvent:
     updatedTimeString: 0001-01-01T00:00:00.000+00:00
@@ -4753,15 +4954,10 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-<<<<<<< HEAD
   repositoryProgressValue: 0
   repositoryProgressMessage: 
-=======
-  repositoryProgressValue: 0.5
-  repositoryProgressMessage: Reading locks...
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
-  appManagerProgressValue: 0
-  appManagerProgressMessage: 
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
   connections: []
   primaryConnectionUsername: 
 --- !u!114 &13
@@ -4833,34 +5029,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Tasty_Characters - Forest Pack/Assets/Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Tasty_Characters - Forest Pack/Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: b2600000
-    m_LastClickedID: 24754
+    m_SelectedIDs: 78600000
+    m_LastClickedID: 24696
     m_ExpandedIDs: 000000007860000082600000b460000000ca9a3bffffff7f
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: 0c600000
-    m_LastClickedID: 24588
-    m_ExpandedIDs: 000000000c60000000ca9a3b
-=======
-    m_SelectedIDs: b8600000
-    m_LastClickedID: 24760
-    m_ExpandedIDs: 000000007860000084600000b660000000ca9a3bffffff7f
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
->>>>>>> 276c26cb80578c46e7bfacc986ddd348cf98cbff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4888,11 +5072,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 000000000c600000
-=======
     m_ExpandedIDs: 0000000078600000
->>>>>>> 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4919,7 +5099,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -4968,9 +5148,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1173.6
+    x: 809.60004
     y: 73.6
-    width: 361.40002
+    width: 725.4
     height: 749.8
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -5293,9 +5473,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.116342306, y: 0.01516968, z: -0.054406606}
+    m_Target: {x: 0.1598883, y: 0.09220804, z: -0.052835517}
     speed: 2
-    m_Value: {x: 0.116342306, y: 0.01516968, z: -0.054406606}
+    m_Value: {x: 0.2729687, y: -0.04066764, z: -0.0503017}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -5346,9 +5526,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.04114
+    m_Target: 5.884027
     speed: 2
-    m_Value: 6.04114
+    m_Value: 5.6306477
   m_Ortho:
     m_Target: 1
     speed: 2
