@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 68
+=======
+  controlID: 21
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +229,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 17
+=======
+  controlID: 49
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +258,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 97
+=======
+  controlID: 50
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,7 +318,7 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-  progressMessageClearTime: -1
+  progressMessageClearTime: 36.3810885
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
@@ -690,6 +702,81 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+<<<<<<< HEAD
+=======
+    - commitID: d873ac4856c2c8000b35a8eb12dc3d51e4534745
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-02T17:46:05.000+08:00
+      commitTimeString: 2022-07-02T17:46:05.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 696a7e33e72c2605ae12f5f321fd068e751e8ef9
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-02T17:45:03.000+08:00
+      commitTimeString: 2022-07-02T17:45:03.000+08:00
+      changes:
+      - path: Assets\pls.prefab
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab
+        projectPath: Assets\pls.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\pls.prefab.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab.meta
+        projectPath: Assets\pls.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 3005e95ed6815408fe468f37d72486f460fa1934
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-02T17:29:36.000+08:00
+      commitTimeString: 2022-07-02T17:29:36.000+08:00
+      changes:
+      - path: Assets\Testing_File
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File
+        projectPath: Assets\Testing_File
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\Testing_File.meta
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File.meta
+        projectPath: Assets\Testing_File.meta
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     - commitID: de4ec2278b8b5f86d39b29f6cbfe6773591eb8ce
       mergeA: 
       mergeB: 
@@ -703,7 +790,11 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T14:31:02.000+08:00
       changes:
       - path: Assets\testing_norman
+<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
+=======
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\testing_norman
         originalPath: 
         indexStatus: 5
@@ -721,7 +812,11 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T13:53:55.000+08:00
       changes:
       - path: Assets\testing_norman
+<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
+=======
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\testing_norman
         originalPath: 
         indexStatus: 4
@@ -751,13 +846,21 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T13:52:39.000+08:00
       changes:
       - path: Assets\THISISATEST.prefab
+<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab
+=======
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\THISISATEST.prefab
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\THISISATEST.prefab.meta
+<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
+=======
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\THISISATEST.prefab.meta
         originalPath: 
         indexStatus: 4
@@ -775,7 +878,11 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T13:43:51.000+08:00
       changes:
       - path: UserSettings\Layouts\default-2021.dwlt
+<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+=======
+        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: UserSettings\Layouts\default-2021.dwlt
         originalPath: 
         indexStatus: 3
@@ -1790,6 +1897,7 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
+<<<<<<< HEAD
       updatedTimeString: 2022-07-02T14:44:39.926+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
@@ -1798,6 +1906,88 @@ MonoBehaviour:
     historyControl:
       scroll: {x: 0, y: 407}
       entries:
+=======
+      updatedTimeString: 2022-07-03T23:46:35.887+08:00
+      cacheType: 3
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 2022-07-03T23:46:35.738+08:00
+      cacheType: 5
+    historyControl:
+      scroll: {x: 0, y: 120}
+      entries:
+      - commitID: d873ac4856c2c8000b35a8eb12dc3d51e4534745
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-02T17:46:05.000+08:00
+        commitTimeString: 2022-07-02T17:46:05.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 696a7e33e72c2605ae12f5f321fd068e751e8ef9
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-02T17:45:03.000+08:00
+        commitTimeString: 2022-07-02T17:45:03.000+08:00
+        changes:
+        - path: Assets\pls.prefab
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab
+          projectPath: Assets\pls.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\pls.prefab.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab.meta
+          projectPath: Assets\pls.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 3005e95ed6815408fe468f37d72486f460fa1934
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-02T17:29:36.000+08:00
+        commitTimeString: 2022-07-02T17:29:36.000+08:00
+        changes:
+        - path: Assets\Testing_File
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File
+          projectPath: Assets\Testing_File
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\Testing_File.meta
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File.meta
+          projectPath: Assets\Testing_File.meta
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
       - commitID: de4ec2278b8b5f86d39b29f6cbfe6773591eb8ce
         mergeA: 
         mergeB: 
@@ -1811,7 +2001,11 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T14:31:02.000+08:00
         changes:
         - path: Assets\testing_norman
+<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
+=======
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\testing_norman
           originalPath: 
           indexStatus: 5
@@ -1829,7 +2023,11 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T13:53:55.000+08:00
         changes:
         - path: Assets\testing_norman
+<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
+=======
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\testing_norman
           originalPath: 
           indexStatus: 4
@@ -1859,13 +2057,21 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T13:52:39.000+08:00
         changes:
         - path: Assets\THISISATEST.prefab
+<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab
+=======
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\THISISATEST.prefab
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\THISISATEST.prefab.meta
+<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
+=======
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\THISISATEST.prefab.meta
           originalPath: 
           indexStatus: 4
@@ -1883,7 +2089,11 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T13:43:51.000+08:00
         changes:
         - path: UserSettings\Layouts\default-2021.dwlt
+<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+=======
+          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: UserSettings\Layouts\default-2021.dwlt
           originalPath: 
           indexStatus: 3
@@ -3123,7 +3333,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/dariusstan/TPFYPCISGAME.git
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 1
+  hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: main
@@ -3134,6 +3344,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
+<<<<<<< HEAD
     updatedTimeString: 2022-07-02T14:44:39.916+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
@@ -3141,6 +3352,15 @@ MonoBehaviour:
     cacheType: 5
   lastStatusEntriesChangedEvent:
     updatedTimeString: 2022-07-02T14:44:45.060+08:00
+=======
+    updatedTimeString: 2022-07-03T23:46:35.735+08:00
+    cacheType: 1
+  lastTrackingStatusChangedEvent:
+    updatedTimeString: 2022-07-03T23:46:35.738+08:00
+    cacheType: 5
+  lastStatusEntriesChangedEvent:
+    updatedTimeString: 2022-07-03T23:46:36.944+08:00
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -3159,7 +3379,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: 
   repositoryProgressValue: 0
-  repositoryProgressMessage: 
+  repositoryProgressMessage: Reading locks...
   appManagerProgressValue: 0
   appManagerProgressMessage: 
   connections: []
@@ -3246,9 +3466,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 0c600000
     m_LastClickedID: 24588
     m_ExpandedIDs: 000000000c60000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 20600000
+    m_LastClickedID: 24608
+    m_ExpandedIDs: 000000002060000000ca9a3bffffff7f
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3276,7 +3502,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000000c600000
+=======
+    m_ExpandedIDs: 0000000020600000
+>>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
