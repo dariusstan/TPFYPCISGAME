@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 16
+  controlID: 65
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 17
+  controlID: 66
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -690,6 +690,24 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+    - commitID: 4bcd10b2666695a99453bb0df2b3b2e12ee29146
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: 0
+      description: 
+      timeString: 2022-07-04T23:10:26.000+08:00
+      commitTimeString: 2022-07-04T23:10:26.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: 4bcd6143cb8a4df332ff87748311d84985a90328
       mergeA: c5df5599e5ed2d99f49bd70b213b15f3e4aac1ef
       mergeB: dba2967b0255ac09503b4d1fea998c49da532199
@@ -2894,14 +2912,32 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2022-07-04T22:38:29.346+08:00
+      updatedTimeString: 2022-07-04T23:10:31.149+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-04T22:37:50.461+08:00
+      updatedTimeString: 2022-07-04T23:10:34.056+08:00
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+      - commitID: 4bcd10b2666695a99453bb0df2b3b2e12ee29146
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: 0
+        description: 
+        timeString: 2022-07-04T23:10:26.000+08:00
+        commitTimeString: 2022-07-04T23:10:26.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: 4bcd6143cb8a4df332ff87748311d84985a90328
         mergeA: c5df5599e5ed2d99f49bd70b213b15f3e4aac1ef
         mergeB: dba2967b0255ac09503b4d1fea998c49da532199
@@ -5104,115 +5140,28 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
-      statusAhead: 0
-      selectedIndex: 4
+      statusAhead: 1
+      selectedIndex: 9
     selectedEntry:
-      commitID: d4d88cf07f927769ab6d373312cabedffdbcc41b
-      mergeA: 
-      mergeB: 
-      authorName: dariusstan
-      authorEmail: dariustan0433@gmail.com
-      commitEmail: dariustan0433@gmail.com
-      commitName: dariusstan
+      commitID: 276c26cb80578c46e7bfacc986ddd348cf98cbff
+      mergeA: 72074d404d96b502c95637034019a0cbe9510a2e
+      mergeB: 9fddcbbd15877be9748315fbdc0c114f53b9a3c8
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
       summary: .
       description: 
-      timeString: 2022-07-04T22:24:23.000+08:00
-      commitTimeString: 2022-07-04T22:24:23.000+08:00
-      changes:
-      - path: Assets\Chara_03.prefab
-        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\Chara_03.prefab
-        projectPath: Assets\Chara_03.prefab
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\Chara_03.prefab.meta
-        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\Chara_03.prefab.meta
-        projectPath: Assets\Chara_03.prefab.meta
-        originalPath: 
-        indexStatus: 4
-        workTreeStatus: 0
-      - path: Assets\z.prefab
-        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\z.prefab
-        projectPath: Assets\z.prefab
-        originalPath: 
-        indexStatus: 3
-        workTreeStatus: 0
-      - path: Assets\z.prefab.meta
-        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\z.prefab.meta
-        projectPath: Assets\z.prefab.meta
-        originalPath: 
-        indexStatus: 3
-        workTreeStatus: 0
-      - path: UserSettings\Layouts\default-2021.dwlt
-        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
-        projectPath: UserSettings\Layouts\default-2021.dwlt
-        originalPath: 
-        indexStatus: 3
-        workTreeStatus: 0
+      timeString: 2022-07-04T22:07:49.000+08:00
+      commitTimeString: 2022-07-04T22:07:49.000+08:00
+      changes: []
     treeChanges:
       assets:
         keys: []
         values: []
       folders:
-        keys:
-        - Assets
-        - UserSettings
-        - UserSettings\Layouts
-        values:
-        - path: Assets
-          label: Assets
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: UserSettings
-          label: UserSettings
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: UserSettings\Layouts
-          label: Layouts
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
+        keys: []
+        values: []
       checkedFileNodes:
         keys: []
         values: []
@@ -5240,150 +5189,6 @@ MonoBehaviour:
           projectPath: 
           originalPath: 
           indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets
-        label: Assets
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Chara_03.prefab
-        label: Chara_03.prefab
-        level: 1
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Chara_03.prefab
-          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\Chara_03.prefab
-          projectPath: Assets\Chara_03.prefab
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-      - path: Assets\Chara_03.prefab.meta
-        label: Chara_03.prefab.meta
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Chara_03.prefab.meta
-          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\Chara_03.prefab.meta
-          projectPath: Assets\Chara_03.prefab.meta
-          originalPath: 
-          indexStatus: 4
-          workTreeStatus: 0
-      - path: Assets\z.prefab
-        label: z.prefab
-        level: 1
-        isFolder: 0
-        isContainer: 1
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\z.prefab
-          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\z.prefab
-          projectPath: Assets\z.prefab
-          originalPath: 
-          indexStatus: 3
-          workTreeStatus: 0
-      - path: Assets\z.prefab.meta
-        label: z.prefab.meta
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\z.prefab.meta
-          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\z.prefab.meta
-          projectPath: Assets\z.prefab.meta
-          originalPath: 
-          indexStatus: 3
-          workTreeStatus: 0
-      - path: UserSettings
-        label: UserSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: UserSettings\Layouts
-        label: Layouts
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: UserSettings\Layouts\default-2021.dwlt
-        label: default-2021.dwlt
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: UserSettings\Layouts\default-2021.dwlt
-          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
-          projectPath: UserSettings\Layouts\default-2021.dwlt
-          originalPath: 
-          indexStatus: 3
           workTreeStatus: 0
       selectedNode:
         path: 
@@ -5489,7 +5294,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/dariusstan/TPFYPCISGAME.git
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 1
+  hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: main
@@ -5500,13 +5305,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-07-04T22:59:56.011+08:00
+    updatedTimeString: 2022-07-04T23:10:31.220+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-07-04T22:37:50.461+08:00
+    updatedTimeString: 2022-07-04T23:10:34.056+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-07-04T22:38:28.861+08:00
+    updatedTimeString: 2022-07-04T23:10:35.994+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -5599,22 +5404,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Plugins
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Plugins
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0c600000
-    m_LastClickedID: 24588
-    m_ExpandedIDs: 000000000c60000000ca9a3b
+    m_SelectedIDs: 1c600000
+    m_LastClickedID: 24604
+    m_ExpandedIDs: 000000000c600000206000006660000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -5669,7 +5474,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -5772,7 +5577,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffff
+      m_ExpandedIDs: 98daffffdedaffff50e0ffffcce0ffff20e6ffff6ce6ffffaee6ffff2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
