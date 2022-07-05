@@ -48,11 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 68
-=======
-  controlID: 21
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+  controlID: 81
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,9 +64,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1012
+    x: 1561
     y: 0
-    width: 908
+    width: 359
     height: 957
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
@@ -98,7 +94,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 243
+    width: 370
     height: 566
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -124,7 +120,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 566
-    width: 1012
+    width: 1561
     height: 391
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -224,16 +220,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1012
+    width: 1561
     height: 957
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-<<<<<<< HEAD
-  controlID: 17
-=======
-  controlID: 49
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+  controlID: 16
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,16 +245,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1012
+    width: 1561
     height: 566
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 97
-=======
-  controlID: 50
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,9 +266,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 243
+    x: 370
     y: 0
-    width: 769
+    width: 1191
     height: 566
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -310,21 +298,21 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: -30988
-    y: -31970
-    width: 907
+    x: 1561
+    y: 73
+    width: 358
     height: 936
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-  progressMessageClearTime: 36.3810885
+  progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
-  repositoryProgressHasUpdate: 1
+  repositoryProgressHasUpdate: 0
   appManagerProgressHasUpdate: 0
   changeTab: 2
   activeTab: 2
@@ -702,8 +690,78 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
-<<<<<<< HEAD
-=======
+    - commitID: aac43cc0f7bc5b5985953ece6a45b0f2f8f359b6
+      mergeA: 7becf929992b1f6cb173ccc309d7a91704937401
+      mergeB: 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: .
+      description: 
+      timeString: 2022-07-04T10:37:02.000+08:00
+      commitTimeString: 2022-07-04T10:37:02.000+08:00
+      changes: []
+    - commitID: 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-04T10:34:17.000+08:00
+      commitTimeString: 2022-07-04T10:34:17.000+08:00
+      changes:
+      - path: Assets\z.prefab
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\z.prefab
+        projectPath: Assets\z.prefab
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\z.prefab.meta
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\z.prefab.meta
+        projectPath: Assets\z.prefab.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: 7becf929992b1f6cb173ccc309d7a91704937401
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: Update default-2021.dwlt
+      description: 
+      timeString: 2022-07-04T09:10:34.000+08:00
+      commitTimeString: 2022-07-04T09:10:34.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: c788bb55bea5fd10f468b17cc702b4f7867df8be
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-03T23:46:56.000+08:00
+      commitTimeString: 2022-07-03T23:46:56.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: d873ac4856c2c8000b35a8eb12dc3d51e4534745
       mergeA: 
       mergeB: 
@@ -717,7 +775,7 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T17:46:05.000+08:00
       changes:
       - path: UserSettings\Layouts\default-2021.dwlt
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
         projectPath: UserSettings\Layouts\default-2021.dwlt
         originalPath: 
         indexStatus: 3
@@ -735,19 +793,19 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T17:45:03.000+08:00
       changes:
       - path: Assets\pls.prefab
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\pls.prefab
         projectPath: Assets\pls.prefab
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\pls.prefab.meta
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab.meta
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\pls.prefab.meta
         projectPath: Assets\pls.prefab.meta
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: UserSettings\Layouts\default-2021.dwlt
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
         projectPath: UserSettings\Layouts\default-2021.dwlt
         originalPath: 
         indexStatus: 3
@@ -765,18 +823,17 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T17:29:36.000+08:00
       changes:
       - path: Assets\Testing_File
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\Testing_File
         projectPath: Assets\Testing_File
         originalPath: 
         indexStatus: 5
         workTreeStatus: 0
       - path: Assets\Testing_File.meta
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File.meta
+        fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\Testing_File.meta
         projectPath: Assets\Testing_File.meta
         originalPath: 
         indexStatus: 5
         workTreeStatus: 0
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     - commitID: de4ec2278b8b5f86d39b29f6cbfe6773591eb8ce
       mergeA: 
       mergeB: 
@@ -790,11 +847,7 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T14:31:02.000+08:00
       changes:
       - path: Assets\testing_norman
-<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
-=======
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\testing_norman
         originalPath: 
         indexStatus: 5
@@ -812,11 +865,7 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T13:53:55.000+08:00
       changes:
       - path: Assets\testing_norman
-<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
-=======
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\testing_norman
         originalPath: 
         indexStatus: 4
@@ -846,21 +895,13 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T13:52:39.000+08:00
       changes:
       - path: Assets\THISISATEST.prefab
-<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab
-=======
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\THISISATEST.prefab
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
       - path: Assets\THISISATEST.prefab.meta
-<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
-=======
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: Assets\THISISATEST.prefab.meta
         originalPath: 
         indexStatus: 4
@@ -878,11 +919,7 @@ MonoBehaviour:
       commitTimeString: 2022-07-02T13:43:51.000+08:00
       changes:
       - path: UserSettings\Layouts\default-2021.dwlt
-<<<<<<< HEAD
         fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
-=======
-        fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
         projectPath: UserSettings\Layouts\default-2021.dwlt
         originalPath: 
         indexStatus: 3
@@ -1895,26 +1932,88 @@ MonoBehaviour:
         originalPath: 
         indexStatus: 4
         workTreeStatus: 0
-    statusAhead: 0
+    statusAhead: 1
     lastLogChangedEvent:
-<<<<<<< HEAD
-      updatedTimeString: 2022-07-02T14:44:39.926+08:00
+      updatedTimeString: 2022-07-04T10:37:39.725+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-02T14:44:39.919+08:00
+      updatedTimeString: 2022-07-04T09:26:55.410+08:00
       cacheType: 5
     historyControl:
-      scroll: {x: 0, y: 407}
+      scroll: {x: 0, y: 0}
       entries:
-=======
-      updatedTimeString: 2022-07-03T23:46:35.887+08:00
-      cacheType: 3
-    lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-03T23:46:35.738+08:00
-      cacheType: 5
-    historyControl:
-      scroll: {x: 0, y: 120}
-      entries:
+      - commitID: aac43cc0f7bc5b5985953ece6a45b0f2f8f359b6
+        mergeA: 7becf929992b1f6cb173ccc309d7a91704937401
+        mergeB: 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: .
+        description: 
+        timeString: 2022-07-04T10:37:02.000+08:00
+        commitTimeString: 2022-07-04T10:37:02.000+08:00
+        changes: []
+      - commitID: 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-04T10:34:17.000+08:00
+        commitTimeString: 2022-07-04T10:34:17.000+08:00
+        changes:
+        - path: Assets\z.prefab
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\z.prefab
+          projectPath: Assets\z.prefab
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\z.prefab.meta
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\z.prefab.meta
+          projectPath: Assets\z.prefab.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: 7becf929992b1f6cb173ccc309d7a91704937401
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: Update default-2021.dwlt
+        description: 
+        timeString: 2022-07-04T09:10:34.000+08:00
+        commitTimeString: 2022-07-04T09:10:34.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: c788bb55bea5fd10f468b17cc702b4f7867df8be
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-03T23:46:56.000+08:00
+        commitTimeString: 2022-07-03T23:46:56.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: d873ac4856c2c8000b35a8eb12dc3d51e4534745
         mergeA: 
         mergeB: 
@@ -1928,7 +2027,7 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T17:46:05.000+08:00
         changes:
         - path: UserSettings\Layouts\default-2021.dwlt
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
           projectPath: UserSettings\Layouts\default-2021.dwlt
           originalPath: 
           indexStatus: 3
@@ -1946,19 +2045,19 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T17:45:03.000+08:00
         changes:
         - path: Assets\pls.prefab
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\pls.prefab
           projectPath: Assets\pls.prefab
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\pls.prefab.meta
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\pls.prefab.meta
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\pls.prefab.meta
           projectPath: Assets\pls.prefab.meta
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: UserSettings\Layouts\default-2021.dwlt
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
           projectPath: UserSettings\Layouts\default-2021.dwlt
           originalPath: 
           indexStatus: 3
@@ -1976,18 +2075,17 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T17:29:36.000+08:00
         changes:
         - path: Assets\Testing_File
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\Testing_File
           projectPath: Assets\Testing_File
           originalPath: 
           indexStatus: 5
           workTreeStatus: 0
         - path: Assets\Testing_File.meta
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\Testing_File.meta
+          fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\Testing_File.meta
           projectPath: Assets\Testing_File.meta
           originalPath: 
           indexStatus: 5
           workTreeStatus: 0
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
       - commitID: de4ec2278b8b5f86d39b29f6cbfe6773591eb8ce
         mergeA: 
         mergeB: 
@@ -2001,11 +2099,7 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T14:31:02.000+08:00
         changes:
         - path: Assets\testing_norman
-<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
-=======
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\testing_norman
           originalPath: 
           indexStatus: 5
@@ -2023,11 +2117,7 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T13:53:55.000+08:00
         changes:
         - path: Assets\testing_norman
-<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\testing_norman
-=======
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\testing_norman
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\testing_norman
           originalPath: 
           indexStatus: 4
@@ -2057,21 +2147,13 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T13:52:39.000+08:00
         changes:
         - path: Assets\THISISATEST.prefab
-<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab
-=======
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\THISISATEST.prefab
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
         - path: Assets\THISISATEST.prefab.meta
-<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
-=======
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Assets\THISISATEST.prefab.meta
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: Assets\THISISATEST.prefab.meta
           originalPath: 
           indexStatus: 4
@@ -2089,11 +2171,7 @@ MonoBehaviour:
         commitTimeString: 2022-07-02T13:43:51.000+08:00
         changes:
         - path: UserSettings\Layouts\default-2021.dwlt
-<<<<<<< HEAD
           fullPath: C:\Users\chewn\OneDrive\Documents\GitHub\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
-=======
-          fullPath: C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
           projectPath: UserSettings\Layouts\default-2021.dwlt
           originalPath: 
           indexStatus: 3
@@ -3106,7 +3184,7 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 4
           workTreeStatus: 0
-      statusAhead: 0
+      statusAhead: 1
       selectedIndex: -1
     selectedEntry:
       commitID: 
@@ -3331,8 +3409,8 @@ MonoBehaviour:
   currentRemoteName: origin
   currentBranch: main
   currentRemoteUrl: https://github.com/dariusstan/TPFYPCISGAME.git
-  statusAhead: 0
-  statusBehind: 0
+  statusAhead: 1
+  statusBehind: 4
   hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
@@ -3344,23 +3422,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-<<<<<<< HEAD
-    updatedTimeString: 2022-07-02T14:44:39.916+08:00
+    updatedTimeString: 2022-07-04T10:29:39.747+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-07-02T14:44:39.919+08:00
+    updatedTimeString: 2022-07-04T09:26:55.410+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-07-02T14:44:45.060+08:00
-=======
-    updatedTimeString: 2022-07-03T23:46:35.735+08:00
-    cacheType: 1
-  lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-07-03T23:46:35.738+08:00
-    cacheType: 5
-  lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-07-03T23:46:36.944+08:00
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
+    updatedTimeString: 2022-07-04T09:26:59.628+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -3379,7 +3447,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: 
   repositoryProgressValue: 0
-  repositoryProgressMessage: Reading locks...
+  repositoryProgressMessage: 
   appManagerProgressValue: 0
   appManagerProgressMessage: 
   connections: []
@@ -3434,7 +3502,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 639
-    width: 1011
+    width: 1560
     height: 370
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -3466,15 +3534,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
     m_SelectedIDs: 0c600000
     m_LastClickedID: 24588
     m_ExpandedIDs: 000000000c60000000ca9a3bffffff7f
-=======
-    m_SelectedIDs: 20600000
-    m_LastClickedID: 24608
-    m_ExpandedIDs: 000000002060000000ca9a3bffffff7f
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3502,11 +3564,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
     m_ExpandedIDs: 000000000c600000
-=======
-    m_ExpandedIDs: 0000000020600000
->>>>>>> 06b9c8efa2671cd63d6b0dc612f2310fe696a8b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3533,7 +3591,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -3625,7 +3683,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 242
+    width: 369
     height: 545
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -3680,9 +3738,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 243
+    x: 370
     y: 73
-    width: 767
+    width: 1189
     height: 545
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -3907,7 +3965,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -0.31473973, y: -0.3164738, z: 0.004500015}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
@@ -3960,7 +4018,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 9.55
     speed: 2
     m_Value: 10
   m_Ortho:
