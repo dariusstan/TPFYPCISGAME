@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CSI GAMe/Assets/Scenes/Main scene.unity
+    path: Assets/CSI GAME/Assets/Scenes/Intro scene.unity
     guid: 53d68bf3420046d4a9e33debac7652b1
+  - enabled: 1
+    path: Assets/CSI GAME/Assets/Scenes/Scenario scene.unity
+    guid: c820d142dca97f84993b738c59de4bf8
   m_configObjects: {}
