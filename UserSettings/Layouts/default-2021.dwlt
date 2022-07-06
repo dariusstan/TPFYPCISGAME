@@ -19,11 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-<<<<<<< HEAD
-  m_Title: Hierarchy
-=======
-  m_Title: Game
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -52,11 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 54
-=======
-  controlID: 46
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+  controlID: 87
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -121,13 +113,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 566
     width: 1491
     height: 391
@@ -139,19 +130,6 @@ MonoBehaviour:
   - {fileID: 19}
   m_Selected: 0
   m_LastSelected: 1
-=======
-    y: 456
-    width: 1172
-    height: 314.8
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 16}
-  m_Panes:
-  - {fileID: 12}
-  - {fileID: 16}
-  m_Selected: 1
-  m_LastSelected: 0
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -247,11 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-<<<<<<< HEAD
-  controlID: 44
-=======
-  controlID: 47
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+  controlID: 39
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,11 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 45
-=======
-  controlID: 48
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+  controlID: 129
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -291,11 +261,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
   m_Name: SceneView
-=======
-  m_Name: GameView
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -308,17 +274,10 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
-<<<<<<< HEAD
   - {fileID: 17}
   - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 1
-=======
-  - {fileID: 15}
-  - {fileID: 17}
-  m_Selected: 1
-  m_LastSelected: 0
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -327,7 +286,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 363648761, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
   m_Name: 
@@ -348,7 +306,7 @@ MonoBehaviour:
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-  progressMessageClearTime: 1052.8818458
+  progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
@@ -732,6 +690,840 @@ MonoBehaviour:
     currentLogHasUpdate: 0
     currentTrackingStatusHasUpdate: 0
     logEntries:
+    - commitID: ada2f27d7089952521d8061a2ba3b4304bd09bc5
+      mergeA: f0ade1480023e1a94fa7156aa23a568c786a1b3b
+      mergeB: 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: 1
+      description: 
+      timeString: 2022-07-06T16:44:34.000+08:00
+      commitTimeString: 2022-07-06T16:44:34.000+08:00
+      changes: []
+    - commitID: f0ade1480023e1a94fa7156aa23a568c786a1b3b
+      mergeA: 
+      mergeB: 
+      authorName: Norman_C
+      authorEmail: chewnorman@gmail.com
+      commitEmail: chewnorman@gmail.com
+      commitName: Norman_C
+      summary: .
+      description: 
+      timeString: 2022-07-06T16:43:21.000+08:00
+      commitTimeString: 2022-07-06T16:43:21.000+08:00
+      changes:
+      - path: UserSettings\EditorUserSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+        projectPath: UserSettings\EditorUserSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: ..
+      description: 
+      timeString: 2022-07-06T16:41:20.000+08:00
+      commitTimeString: 2022-07-06T16:41:20.000+08:00
+      changes:
+      - path: UserSettings\EditorUserSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+        projectPath: UserSettings\EditorUserSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 4003e3b718d04ef18796a3e8629f5722f3e2f20a
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-06T16:37:40.000+08:00
+      commitTimeString: 2022-07-06T16:37:40.000+08:00
+      changes:
+      - path: UserSettings\EditorUserSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+        projectPath: UserSettings\EditorUserSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: b9b071bf1688a43d60339c220396e142f67dae4c
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: ..
+      description: 
+      timeString: 2022-07-06T16:36:32.000+08:00
+      commitTimeString: 2022-07-06T16:36:32.000+08:00
+      changes:
+      - path: Assets\CSI GAME\Assets\Scenes\Intro scene.unity
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\Intro scene.unity
+        projectPath: Assets\CSI GAME\Assets\Scenes\Intro scene.unity
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\Intro scene.unity.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\Intro scene.unity.meta
+        projectPath: Assets\CSI GAME\Assets\Scenes\Intro scene.unity.meta
+        originalPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\LineUp.unity
+        projectPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+        originalPath: 
+        indexStatus: 5
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\Scenario scene.unity
+        projectPath: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity
+        originalPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\Scenario scene.unity.meta
+        projectPath: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity.meta
+        originalPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\MainMenu.cs
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\MainMenu.cs
+        projectPath: Assets\MainMenu.cs
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\MainMenu.cs.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\MainMenu.cs.meta
+        projectPath: Assets\MainMenu.cs.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\ScenarioMenu.cs
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\ScenarioMenu.cs
+        projectPath: Assets\ScenarioMenu.cs
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\ScenarioMenu.cs.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\ScenarioMenu.cs.meta
+        projectPath: Assets\ScenarioMenu.cs.meta
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+      - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+          - Fallback.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\TextMesh
+          Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+        projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+          SDF - Fallback.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\TextMesh
+          Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+        projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+          SDF.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\ProjectSettings\EditorBuildSettings.asset
+        projectPath: ProjectSettings\EditorBuildSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: UserSettings\EditorUserSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+        projectPath: UserSettings\EditorUserSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+        projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+        originalPath: 
+        indexStatus: 4
+        workTreeStatus: 0
+    - commitID: 7a95d41a3a45d2abc919d4181d1445e33ba0c2b8
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: ..
+      description: 
+      timeString: 2022-07-06T14:48:38.000+08:00
+      commitTimeString: 2022-07-06T14:48:38.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: c9e8f92c8397b24304ffc5b0bacfe95b06305e41
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-05T23:06:22.000+08:00
+      commitTimeString: 2022-07-05T23:06:22.000+08:00
+      changes:
+      - path: ProjectSettings\EditorBuildSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\ProjectSettings\EditorBuildSettings.asset
+        projectPath: ProjectSettings\EditorBuildSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: e1582e31bf14cc96477f3ad249c6241dddf4c447
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-05T23:05:04.000+08:00
+      commitTimeString: 2022-07-05T23:05:04.000+08:00
+      changes:
+      - path: Assets\CSI GAME.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME.meta
+        projectPath: Assets\CSI GAME.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets.meta
+        projectPath: Assets\CSI GAME\Assets.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_00.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_00.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_01.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_01.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_02.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_02.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_03.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_03.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_04.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_04.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_05.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_05.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_06.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_06.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_07.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_07.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_08.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_08.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_09.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_09.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_10.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_10.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_11.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_11.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_12.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_12.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_13.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_13.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_14.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_14.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_15.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\Chara_15.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_00.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_01.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_02.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_03.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_04.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_05.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_06.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_07.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_08.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_09.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_10.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_11.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_12.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_13.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_14.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_15.prefab
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes.meta
+        projectPath: Assets\CSI GAME\Assets\Scenes.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\ExampleSettings.lighting
+        projectPath: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\ExampleSettings.lighting.meta
+        projectPath: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\LineUp.unity
+        projectPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\LineUp.unity.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\LineUp.unity.meta
+        projectPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\Main scene.unity
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\Main scene.unity
+        projectPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Main scene.unity
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Scenes\Main scene.unity.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Scenes\Main scene.unity.meta
+        projectPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Main scene.unity.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Textures.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Textures.meta
+        projectPath: Assets\CSI GAME\Assets\Textures.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Textures\Forest_Background.jpg
+        projectPath: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Textures\Forest_Background.jpg.meta
+        projectPath: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Textures\PackForest01.png
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Textures\PackForest01.png
+        projectPath: Assets\CSI GAME\Assets\Textures\PackForest01.png
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: Assets\CSI GAME\Assets\Textures\PackForest01.png.meta
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+          GAME\Assets\Textures\PackForest01.png.meta
+        projectPath: Assets\CSI GAME\Assets\Textures\PackForest01.png.meta
+        originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png.meta
+        indexStatus: 6
+        workTreeStatus: 0
+      - path: UserSettings\EditorUserSettings.asset
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+        projectPath: UserSettings\EditorUserSettings.asset
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
+    - commitID: 87287d60d4da37b032de4bb0f26f2da79af613c8
+      mergeA: 441e74dda12798274a7c3669f229ef7053283ab3
+      mergeB: eb84068fbb5810403e4be29bb5fb120afc739813
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: .
+      description: 
+      timeString: 2022-07-05T23:00:55.000+08:00
+      commitTimeString: 2022-07-05T23:00:55.000+08:00
+      changes: []
+    - commitID: 441e74dda12798274a7c3669f229ef7053283ab3
+      mergeA: 
+      mergeB: 
+      authorName: dariusstan
+      authorEmail: dariustan0433@gmail.com
+      commitEmail: dariustan0433@gmail.com
+      commitName: dariusstan
+      summary: /
+      description: 
+      timeString: 2022-07-05T23:00:18.000+08:00
+      commitTimeString: 2022-07-05T23:00:18.000+08:00
+      changes:
+      - path: UserSettings\Layouts\default-2021.dwlt
+        fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+        projectPath: UserSettings\Layouts\default-2021.dwlt
+        originalPath: 
+        indexStatus: 3
+        workTreeStatus: 0
     - commitID: eb84068fbb5810403e4be29bb5fb120afc739813
       mergeA: 67e506d70cbda8d7b8c2d16058978902160cf43d
       mergeB: 99750c75dd6e8f68bd64d77eacd77a34bee0ce40
@@ -3754,14 +4546,850 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2022-07-05T22:47:20.880+08:00
+      updatedTimeString: 2022-07-06T16:44:54.121+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-07-05T22:46:29.497+08:00
+      updatedTimeString: 2022-07-06T16:44:54.117+08:00
       cacheType: 5
     historyControl:
-      scroll: {x: 0, y: 520}
+      scroll: {x: 0, y: 360}
       entries:
+      - commitID: ada2f27d7089952521d8061a2ba3b4304bd09bc5
+        mergeA: f0ade1480023e1a94fa7156aa23a568c786a1b3b
+        mergeB: 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: 1
+        description: 
+        timeString: 2022-07-06T16:44:34.000+08:00
+        commitTimeString: 2022-07-06T16:44:34.000+08:00
+        changes: []
+      - commitID: f0ade1480023e1a94fa7156aa23a568c786a1b3b
+        mergeA: 
+        mergeB: 
+        authorName: Norman_C
+        authorEmail: chewnorman@gmail.com
+        commitEmail: chewnorman@gmail.com
+        commitName: Norman_C
+        summary: .
+        description: 
+        timeString: 2022-07-06T16:43:21.000+08:00
+        commitTimeString: 2022-07-06T16:43:21.000+08:00
+        changes:
+        - path: UserSettings\EditorUserSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+          projectPath: UserSettings\EditorUserSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: ..
+        description: 
+        timeString: 2022-07-06T16:41:20.000+08:00
+        commitTimeString: 2022-07-06T16:41:20.000+08:00
+        changes:
+        - path: UserSettings\EditorUserSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+          projectPath: UserSettings\EditorUserSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 4003e3b718d04ef18796a3e8629f5722f3e2f20a
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-06T16:37:40.000+08:00
+        commitTimeString: 2022-07-06T16:37:40.000+08:00
+        changes:
+        - path: UserSettings\EditorUserSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+          projectPath: UserSettings\EditorUserSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: b9b071bf1688a43d60339c220396e142f67dae4c
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: ..
+        description: 
+        timeString: 2022-07-06T16:36:32.000+08:00
+        commitTimeString: 2022-07-06T16:36:32.000+08:00
+        changes:
+        - path: Assets\CSI GAME\Assets\Scenes\Intro scene.unity
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\Intro scene.unity
+          projectPath: Assets\CSI GAME\Assets\Scenes\Intro scene.unity
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\Intro scene.unity.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\Intro scene.unity.meta
+          projectPath: Assets\CSI GAME\Assets\Scenes\Intro scene.unity.meta
+          originalPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\LineUp.unity
+          projectPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+          originalPath: 
+          indexStatus: 5
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\Scenario scene.unity
+          projectPath: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity
+          originalPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\Scenario scene.unity.meta
+          projectPath: Assets\CSI GAME\Assets\Scenes\Scenario scene.unity.meta
+          originalPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\MainMenu.cs
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\MainMenu.cs
+          projectPath: Assets\MainMenu.cs
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\MainMenu.cs.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\MainMenu.cs.meta
+          projectPath: Assets\MainMenu.cs.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\ScenarioMenu.cs
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\ScenarioMenu.cs
+          projectPath: Assets\ScenarioMenu.cs
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\ScenarioMenu.cs.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\ScenarioMenu.cs.meta
+          projectPath: Assets\ScenarioMenu.cs.meta
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+        - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+            - Fallback.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\TextMesh
+            Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+          projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+            SDF - Fallback.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\TextMesh
+            Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+          projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+            SDF.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: UserSettings\EditorUserSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+          projectPath: UserSettings\EditorUserSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+          projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+          originalPath: 
+          indexStatus: 4
+          workTreeStatus: 0
+      - commitID: 7a95d41a3a45d2abc919d4181d1445e33ba0c2b8
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: ..
+        description: 
+        timeString: 2022-07-06T14:48:38.000+08:00
+        commitTimeString: 2022-07-06T14:48:38.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: c9e8f92c8397b24304ffc5b0bacfe95b06305e41
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-05T23:06:22.000+08:00
+        commitTimeString: 2022-07-05T23:06:22.000+08:00
+        changes:
+        - path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: e1582e31bf14cc96477f3ad249c6241dddf4c447
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-05T23:05:04.000+08:00
+        commitTimeString: 2022-07-05T23:05:04.000+08:00
+        changes:
+        - path: Assets\CSI GAME.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME.meta
+          projectPath: Assets\CSI GAME.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets.meta
+          projectPath: Assets\CSI GAME\Assets.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_00.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_00.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_00.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_00.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_01.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_01.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_01.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_01.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_02.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_02.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_02.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_02.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_03.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_03.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_03.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_03.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_04.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_04.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_04.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_04.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_05.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_05.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_05.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_05.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_06.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_06.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_06.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_06.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_07.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_07.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_07.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_07.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_08.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_08.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_08.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_08.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_09.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_09.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_09.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_09.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_10.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_10.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_10.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_10.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_11.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_11.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_11.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_11.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_12.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_12.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_12.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_12.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_13.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_13.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_13.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_13.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_14.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_14.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_14.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_14.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_15.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\Chara_15.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\Chara_15.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\Chara_15.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_00.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_00.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_01.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_01.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_02.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_02.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_03.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_03.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_04.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_04.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_05.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_05.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_06.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_06.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_07.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_07.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_08.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_08.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_09.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_09.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_10.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_10.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_11.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_11.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_12.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_12.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_13.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_13.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_14.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_14.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_15.prefab
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          projectPath: Assets\CSI GAME\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Prefabs\References\CharaRef_15.prefab.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes.meta
+          projectPath: Assets\CSI GAME\Assets\Scenes.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\ExampleSettings.lighting
+          projectPath: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\ExampleSettings.lighting.meta
+          projectPath: Assets\CSI GAME\Assets\Scenes\ExampleSettings.lighting.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\ExampleSettings.lighting.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\LineUp.unity
+          projectPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\LineUp.unity.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\LineUp.unity.meta
+          projectPath: Assets\CSI GAME\Assets\Scenes\LineUp.unity.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\LineUp.unity.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\Main scene.unity
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\Main scene.unity
+          projectPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Main
+            scene.unity
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Scenes\Main scene.unity.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Scenes\Main scene.unity.meta
+          projectPath: Assets\CSI GAME\Assets\Scenes\Main scene.unity.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Scenes\Main
+            scene.unity.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Textures.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Textures.meta
+          projectPath: Assets\CSI GAME\Assets\Textures.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Textures\Forest_Background.jpg
+          projectPath: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Textures\Forest_Background.jpg.meta
+          projectPath: Assets\CSI GAME\Assets\Textures\Forest_Background.jpg.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\Forest_Background.jpg.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Textures\PackForest01.png
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Textures\PackForest01.png
+          projectPath: Assets\CSI GAME\Assets\Textures\PackForest01.png
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: Assets\CSI GAME\Assets\Textures\PackForest01.png.meta
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\Assets\CSI
+            GAME\Assets\Textures\PackForest01.png.meta
+          projectPath: Assets\CSI GAME\Assets\Textures\PackForest01.png.meta
+          originalPath: Assets\Tasty_Characters - Forest Pack\Assets\Textures\PackForest01.png.meta
+          indexStatus: 6
+          workTreeStatus: 0
+        - path: UserSettings\EditorUserSettings.asset
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\EditorUserSettings.asset
+          projectPath: UserSettings\EditorUserSettings.asset
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
+      - commitID: 87287d60d4da37b032de4bb0f26f2da79af613c8
+        mergeA: 441e74dda12798274a7c3669f229ef7053283ab3
+        mergeB: eb84068fbb5810403e4be29bb5fb120afc739813
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: .
+        description: 
+        timeString: 2022-07-05T23:00:55.000+08:00
+        commitTimeString: 2022-07-05T23:00:55.000+08:00
+        changes: []
+      - commitID: 441e74dda12798274a7c3669f229ef7053283ab3
+        mergeA: 
+        mergeB: 
+        authorName: dariusstan
+        authorEmail: dariustan0433@gmail.com
+        commitEmail: dariustan0433@gmail.com
+        commitName: dariusstan
+        summary: /
+        description: 
+        timeString: 2022-07-05T23:00:18.000+08:00
+        commitTimeString: 2022-07-05T23:00:18.000+08:00
+        changes:
+        - path: UserSettings\Layouts\default-2021.dwlt
+          fullPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME\UserSettings\Layouts\default-2021.dwlt
+          projectPath: UserSettings\Layouts\default-2021.dwlt
+          originalPath: 
+          indexStatus: 3
+          workTreeStatus: 0
       - commitID: eb84068fbb5810403e4be29bb5fb120afc739813
         mergeA: 67e506d70cbda8d7b8c2d16058978902160cf43d
         mergeB: 99750c75dd6e8f68bd64d77eacd77a34bee0ce40
@@ -6785,7 +8413,7 @@ MonoBehaviour:
           indexStatus: 4
           workTreeStatus: 0
       statusAhead: 0
-      selectedIndex: 22
+      selectedIndex: 32
     selectedEntry:
       commitID: 276c26cb80578c46e7bfacc986ddd348cf98cbff
       mergeA: 72074d404d96b502c95637034019a0cbe9510a2e
@@ -6937,7 +8565,7 @@ MonoBehaviour:
   currentBranch: main
   currentRemoteUrl: https://github.com/dariusstan/TPFYPCISGAME.git
   statusAhead: 0
-  statusBehind: 11
+  statusBehind: 0
   hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
   currentBranchContent:
@@ -6949,13 +8577,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-07-05T22:46:29.567+08:00
+    updatedTimeString: 2022-07-06T16:43:06.993+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-07-05T22:46:29.497+08:00
+    updatedTimeString: 2022-07-06T16:44:54.117+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-07-05T22:47:20.335+08:00
+    updatedTimeString: 2022-07-06T16:44:58.835+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -6974,9 +8602,9 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: 
   repositoryProgressValue: 0
-  repositoryProgressMessage: Reading locks...
-  appManagerProgressValue: 0
-  appManagerProgressMessage: 
+  repositoryProgressMessage: 
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
   connections: []
   primaryConnectionUsername: 
 --- !u!114 &13
@@ -7015,8 +8643,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-=======
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
   m_EditorHideFlags: 1
   m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -7050,36 +8676,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
-    - Assets/Tasty_Characters - Forest Pack/Assets/Scenes
-=======
     - Assets/CSI GAME/Assets/Scenes
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-<<<<<<< HEAD
-  - Assets/Tasty_Characters - Forest Pack/Assets/Scenes
-=======
   - Assets/CSI GAME/Assets/Scenes
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\User\Documents\GitHub\TPFYPCISGAME\TPFYPCISGAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: ce610000
-    m_LastClickedID: 25038
-    m_ExpandedIDs: 000000008060000098600000ca61000000ca9a3b
-=======
-    m_SelectedIDs: f6600000
-    m_LastClickedID: 24822
-    m_ExpandedIDs: 00000000dc600000de600000e0600000e260000000ca9a3bffffff7f
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+    m_SelectedIDs: 92600000
+    m_LastClickedID: 24722
+    m_ExpandedIDs: 0000000082600000846000008e60000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -7095,7 +8707,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -7107,11 +8719,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 0000000080600000
-=======
-    m_ExpandedIDs: 00000000dc600000de600000e0600000e2600000
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+    m_ExpandedIDs: 000000008260000084600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -7241,11 +8849,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-<<<<<<< HEAD
-      m_ExpandedIDs: 026bffff5670ffff4871ffff2efbffffa4610000
-=======
-      m_ExpandedIDs: e8f8ffff2cf9ffff72f9ffffb6f9fffffcf9ffff2efbffff
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+      m_ExpandedIDs: 0ef1fdff4ef1fdff30f2fdffdcf2fdff30f8fdff2efbffff86670000c4670000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -7261,7 +8865,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 4}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -7516,15 +9120,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
     m_Target: {x: 653.0847, y: 200.4339, z: -4.472269}
     speed: 2
-    m_Value: {x: 683.9363, y: 217.65437, z: -4.6940427}
-=======
-    m_Target: {x: 428.28506, y: 193.35507, z: -4.7695556}
-    speed: 2
-    m_Value: {x: 428.28506, y: 193.35507, z: -4.7695556}
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+    m_Value: {x: 653.0847, y: 200.4339, z: -4.472269}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -7575,15 +9173,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< HEAD
     m_Target: 470.6502
     speed: 2
-    m_Value: 492.82745
-=======
-    m_Target: 226.69342
-    speed: 2
-    m_Value: 226.69342
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
+    m_Value: 470.6502
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -7617,7 +9209,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-<<<<<<< HEAD
   m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -7710,8 +9301,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-=======
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
   m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -7724,110 +9313,10 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 639
     width: 1490
     height: 370
-=======
-    y: 529.60004
-    width: 1171
-    height: 293.8
->>>>>>> 00e9f06aa527d5b2e17170793b07958c8fbb3bcb
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
---- !u!114 &17
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Game
-    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 290.4
-    y: 73.6
-    width: 879.6
-    height: 435
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-  m_SerializedViewNames:
-  - UnityEditor.DeviceSimulation.SimulatorWindow
-  m_SerializedViewValues:
-  - C:\Users\dariu\FYP TP CIS GAME\TPFYPCISGAME\Library\PlayModeViewStates\2f15babe024bf3947bf0ad1ad3f4b830
-  m_PlayModeViewName: GameView
-  m_ShowGizmos: 0
-  m_TargetDisplay: 0
-  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 879.6, y: 414}
-  m_TextureFilterMode: 0
-  m_TextureHideFlags: 61
-  m_RenderIMGUI: 1
-  m_EnterPlayModeBehavior: 0
-  m_UseMipMap: 0
-  m_VSyncEnabled: 0
-  m_Gizmos: 0
-  m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_ZoomArea:
-    m_HRangeLocked: 0
-    m_VRangeLocked: 0
-    hZoomLockedByDefault: 0
-    vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -351.84
-    m_HBaseRangeMax: 351.84
-    m_VBaseRangeMin: -165.6
-    m_VBaseRangeMax: 165.6
-    m_HAllowExceedBaseRangeMin: 1
-    m_HAllowExceedBaseRangeMax: 1
-    m_VAllowExceedBaseRangeMin: 1
-    m_VAllowExceedBaseRangeMax: 1
-    m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
-    m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
-    m_EnableSliderZoomHorizontal: 0
-    m_EnableSliderZoomVertical: 0
-    m_UniformScale: 1
-    m_UpDirection: 1
-    m_DrawArea:
-      serializedVersion: 2
-      x: 0
-      y: 21
-      width: 879.6
-      height: 414
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 439.8, y: 207}
-    m_MarginLeft: 0
-    m_MarginRight: 0
-    m_MarginTop: 0
-    m_MarginBottom: 0
-    m_LastShownAreaInsideMargins:
-      serializedVersion: 2
-      x: -439.8
-      y: -207
-      width: 879.6
-      height: 414
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1099.5, y: 543.75}
-  m_ClearInEditMode: 1
-  m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000000000000
-  m_XRRenderMode: 0
-  m_RenderTexture: {fileID: 0}
