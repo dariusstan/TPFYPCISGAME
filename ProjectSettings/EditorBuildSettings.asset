@@ -14,6 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CSI GAME/Assets/Scenes/SCENARIO1.unity
     guid: 42e8f6a88b565d94ab8b60a3a6016eb8
+<<<<<<< HEAD
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
@@ -41,4 +42,18 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+=======
+  - enabled: 1
+    path: Assets/CSI GAME/Assets/Scenes/SCENARIO2.unity
+    guid: 6ac7e0555323f57478aa637485428953
+  - enabled: 1
+    path: Assets/CSI GAME/Assets/Scenes/SCENARIO3.unity
+    guid: ca39ed1089bf32447a06bed05f70bb41
+  - enabled: 1
+    path: Assets/CSI GAME/Assets/Scenes/SCENARIO4.unity
+    guid: 3be1b2a7079655b4b8a2f5beb72ef8b3
+  - enabled: 1
+    path: Assets/CSI GAME/Assets/Scenes/SCENARIO5.unity
+    guid: 4b3243ef1f07e2d488c8e1ffec67f9cc
+>>>>>>> parent of a58ed16 (.)
   m_configObjects: {}

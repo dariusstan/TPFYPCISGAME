@@ -10,6 +10,7 @@ public class ScenarioMenu : MonoBehaviour {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
 
     }
+<<<<<<< HEAD
 
     public void Scenario1(){
 
@@ -40,4 +41,6 @@ public class ScenarioMenu : MonoBehaviour {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 9);
 
     }
+=======
+>>>>>>> parent of a58ed16 (.)
 }
